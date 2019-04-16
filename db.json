@@ -1,12 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" , "name":  "huiwen"},
-    { "id": 2, "title": "Post 2" , "name": "hw"},
-    {
-      "id": 3,
-      "title": "Post 3",
-      "name": "wen"
-    }
+    { "id": 1, "name": "John" , "plateNo":  "WWW1234", "phoneNumber":  "018-1234556","address":  "PetalingJaya"},
+    { "id": 2, "name": "James" , "plateNo": "ro_WAA1234", "phoneNumber": "012-3453234","address":  "Subang"},
+    { "id": 3, "name": "Jack",  "plateNo": "ro_WAB1234", "phoneNumber":  "023-4323323", "address": "Shah Alam"}
   ]
   
 }
